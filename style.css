@@ -80,6 +80,7 @@ body {
   text-align: center;
   font-size: 1.75rem;
   font-weight: 350;
+  margin-top: 20px;
   margin-bottom: 15px;
 }
 
@@ -87,6 +88,7 @@ body {
   text-align: center;
   font-size: 1.75rem;
   font-weight: 350;
+  margin-top: 20px;
   margin-bottom: 25px;
 }
 
@@ -102,6 +104,14 @@ body {
   max-width: 90%;
   margin: auto;
   margin-bottom: 30px;
+}
+
+#timeline p.list {
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 200;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 #timeline p.conclusion {
