@@ -106,6 +106,18 @@ body {
   margin-bottom: 30px;
 }
 
+#timeline p.paragraph {
+  text-align: center;
+  font-size: 1.05rem;
+  line-height: 1.35rem;
+  font-weight: 300;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+
 #timeline p.list {
   text-align: center;
   font-size: 1rem;
@@ -119,7 +131,7 @@ body {
   font-size: 1.75rem;
   font-weight: 350;
   margin-top: 20px;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 
 #timeline .demo-card-wrapper {
